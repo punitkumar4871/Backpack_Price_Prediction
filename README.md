@@ -1,7 +1,7 @@
-# Backpack_Price_Prediction
+# `Backpack_Price_Prediction`
 
-### Backpack Price Prediction: Kaggle Competition
-#### Overview
+### `Backpack Price Prediction: Kaggle Competition`
+#### `Overview`
 This repository contains our submission for the Kaggle Competition: Backpack Price Prediction. The goal was to predict backpack prices based on various features using a structured machine learning approach. We performed exploratory data analysis, feature engineering, and trained multiple models to achieve accurate predictions. This project demonstrates end-to-end data science workflows, from preprocessing to model evaluation.
 
 `Data Analysis & Preprocessing`
