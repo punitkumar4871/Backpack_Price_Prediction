@@ -56,7 +56,7 @@ Python 3.x
 
 Jupyter Notebook or similar for running the code
 
-`Installation and Setup`
+## `Installation and Setup`
 Clone this repository.
 
 Install dependencies: pip install -r requirements.txt (if provided, or install manually).
@@ -65,15 +65,15 @@ Download the Kaggle dataset and place it in the data/ folder.
 
 Open the Jupyter Notebook to explore the analysis.
 
-`Usage`
+## `Usage`
 Run the notebook cells sequentially to reproduce the EDA, preprocessing, and model training.
 
 Adjust parameters in the code for custom experiments.
 
 Submit predictions to Kaggle using the generated output.
 
-`Acknowledgments`
+## `Acknowledgments`
 A huge shoutout to my amazing teammates Vaibhav Tamang and Yash Bhardwaj for their dedication and collaboration. Their expertise and teamwork made this project a success! 
 
-`Contributing`
+## `Contributing`
 Feel free to fork the repo, suggest improvements, or submit pull requests for new features or optimizations.
